@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacao DB App</string>
+    <string name="login_title">Login</string>
+    <string name="login_subtitle">Acesso ao sistema academico</string>
+    <string name="login_hint">Use usuario admin e senha 1234 para entrar.</string>
+    <string name="label_usuario">Usuario</string>
+    <string name="label_senha">Senha</string>
+    <string name="label_nome">Nome do item</string>
+    <string name="label_descricao">Descricao</string>
+    <string name="label_quantidade">Quantidade</string>
+    <string name="label_valor">Valor</string>
+    <string name="button_entrar">Entrar</string>
+    <string name="button_edit">Editar</string>
+    <string name="button_delete">Excluir</string>
+    <string name="button_cancel">Cancelar</string>
+    <string name="button_save_changes">Salvar alteracoes</string>
+    <string name="button_confirm_delete">Confirmar exclusao</string>
+    <string name="button_restore_samples">Restaurar itens de exemplo</string>
+    <string name="login_error">Usuario ou senha invalidos.</string>
+    <string name="required_field">Campo obrigatorio.</string>
+    <string name="item_list_title">Itens cadastrados</string>
+    <string name="edit_item_title">Editar item</string>
+    <string name="delete_item_title">Excluir item</string>
+    <string name="list_intro">Conteudo completo da tabela item do banco aplicacaodb.</string>
+    <string name="empty_items">Nao ha registros na tabela item.</string>
+    <string name="delete_warning">Revise o registro abaixo antes de excluir. Esta acao nao pode ser desfeita.</string>
+    <string name="total_items_format">Total de registros: %1$d</string>
+    <string name="item_id_format">ID: %1$d</string>
+    <string name="item_name_format">Nome: %1$s</string>
+    <string name="item_description_format">Descricao: %1$s</string>
+    <string name="item_quantity_format">Quantidade: %1$d</string>
+    <string name="item_value_format">Valor: %1$s</string>
+    <string name="item_not_found">Registro nao encontrado.</string>
+    <string name="invalid_quantity">Informe uma quantidade valida.</string>
+    <string name="invalid_value">Informe um valor valido.</string>
+    <string name="item_updated_success">Registro atualizado com sucesso.</string>
+    <string name="item_update_error">Nao foi possivel atualizar o registro.</string>
+    <string name="item_deleted_success">Registro excluido com sucesso.</string>
+    <string name="item_delete_error">Nao foi possivel excluir o registro.</string>
+    <string name="samples_restored">Itens de exemplo restaurados.</string>
+    <string name="samples_not_restored">A tabela ja possui registros.</string>
+</resources>
+
